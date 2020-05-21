@@ -10,4 +10,5 @@ Responds with json data upon request.
   git clone the project , open in any IDE or use command prompt , execute mvn clean install (this will build the project) ,                     execute java -jar target/rest-service-0.0.1-SNAPSHOT.jar.
   
 #Pre Requisites - 
-API lists >>>>         /updates,
+API lists >>>>         /updates,/greeting,/information
+it was deployed on Azure for a while .
