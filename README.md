@@ -15,5 +15,5 @@ Responds with json data upon request.
 You are good to go (local deployment should happen to 8080 port)
   
 #Pre Requisites - 
-API lists >>>>         /updates,/greeting,/information
-it was deployed on Azure for a while .
+API lists >>>>         localhost:8080/updates,localhost:8080/greeting,localhost:8080/information
+  use GET requests to get JSON as response
