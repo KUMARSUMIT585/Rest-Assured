@@ -1,6 +1,6 @@
 # Rest-Services
 
-This project basically is Java , spring boot based back end api layer .
+This project basically is written in Java & spring boot .
 Responds with json data upon request.
 
 #Pre Requisites
